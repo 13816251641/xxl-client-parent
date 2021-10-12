@@ -20,7 +20,7 @@
         <junit.version>4.12</junit.version>
         <log4j.version>1.2.17</log4j.version>
         <lombok.version>1.16.18</lombok.version>
-        <xxl-job-core.version>2.2.0-SNAPSHOT</xxl-job-core.version>
+        <xxl-job-core.version>2.3.0</xxl-job-core.version>
     </properties>
 
     <dependencyManagement>
